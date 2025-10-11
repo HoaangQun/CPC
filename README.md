@@ -1,3 +1,4 @@
 # CPC
 my road for competitive programming
-never off more than dayday
+
+never off more than day
