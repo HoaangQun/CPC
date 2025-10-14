@@ -10,9 +10,9 @@ Tìm cách chọn lớp để đạt mức lương cao nhất.
 ## Input
 Dòng đầu là số nguyên dương $n$ ($1 \leq n \leq 2.10^5$).
 
-$n$ dòng tiếp theo, mỗi dòng là một bộ số li, ri và wi ($1 \leq l_i \leq r_i$,$w_i \leq 10^9$).
+$n$ dòng tiếp theo, mỗi dòng là một bộ số li, ri và wi ($1 \leq l_i \leq r_i$, $w_i \leq 10^9$).
 
-Subtask 1 (50%): $n$,$l_i$,$r_i$,$w_i \leq 1000$.
+Subtask 1 (50%): $n$, $l_i$, $r_i$, $w_i \leq 1000$.
 
 Subtask 2 (50%): Không có giới hạn gì thêm.
 
