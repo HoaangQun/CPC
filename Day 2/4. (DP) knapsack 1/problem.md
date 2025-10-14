@@ -12,7 +12,7 @@ Hãy tìm cách bỏ đồ vật vào túi sao cho tổng giá trị là lớn n
 ## Input
 Dòng đầu gồm $2$ số nguyên $n$, $S$ ($1 \leq n \leq 100$, $1 \leq S \leq 10^5$).
 
-$n$ dòng tiếp theo mỗi dòng là $2$ số nguyên dương $w_i$, $v_i$ ($1 \leq w_i \leq 10^9$, $1 \leq v_i \leq 10^9).
+$n$ dòng tiếp theo mỗi dòng là $2$ số nguyên dương $w_i$, $v_i$ ($1 \leq w_i \leq 10^9$, $1 \leq v_i \leq 10^9$).
 
 ## Output
 In ra tổng lớn nhất có thể chọn.
