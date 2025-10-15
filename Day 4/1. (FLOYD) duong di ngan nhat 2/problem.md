@@ -8,7 +8,7 @@ Có $n$ thành phố và $m$ con đường giữa chúng, nhiệm vụ là xử 
 ## Input
 Dòng đầu là các số nguyên dương $n$, $m$, $q$ ($1 \leq n \leq 500$, $1 \leq m \leq n^2$, $1 \leq q \leq 10^5$).
 
-$m$ dòng tiếp theo, mỗi dòng là các số nguyên $a$, $b$, $c$ thể hiện cho tuyến đường độ dài $c$ nối cặp thành phố $a$, $b$ ($1 \leq a \leq b \leq n$, $1 \leq c \leq 10^9).
+$m$ dòng tiếp theo, mỗi dòng là các số nguyên $a$, $b$, $c$ thể hiện cho tuyến đường độ dài $c$ nối cặp thành phố $a$, $b$ ($1 \leq a \leq b \leq n$, $1 \leq c \leq 10^9$).
 
 Cuối cùng có $q$ truy vấn với dòng là một cặp thành phố $a$, $b$ ($1 \leq a \leq b \leq n$).
 
